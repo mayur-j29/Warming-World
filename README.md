@@ -3,7 +3,7 @@ Anyone can read my code from this repository.
 Users cannot legally clone, fork for reuse, or incorporate this code into their projects.
 
 
-# Hack for Humanityb2026 Project
+# Hack for Humanity 2026 Project
 ## Inspiration
 I have already done a few environmental-based avocational websites, and I was already trying to develop more coding skills, which is why this was the perfect opportunity for me
 ## What it does
